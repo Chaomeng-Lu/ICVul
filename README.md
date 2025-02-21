@@ -2,6 +2,11 @@
 
 This project is designed to extract, analyze, and filter CVEs (Common Vulnerabilities and Exposures) from the National Vulnerability Database (NVD) and then associate them with fix commits from GitHub open-source repositories. By using the SZZ algorithm, it identifies Vulnerable Commit Changes (VCCs) and extracts relevant commit information.
 
+![DatasetS](https://github.com/user-attachments/assets/4cf6eb9b-d82d-436f-b9aa-b9cf15c4886d)
+
+![DistributionF](https://github.com/user-attachments/assets/56dc88d1-e31f-43cc-86fc-d30459e2356d)
+
+
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Prerequisites](#prerequisites)
@@ -14,6 +19,8 @@ This project is designed to extract, analyze, and filter CVEs (Common Vulnerabil
 ## Project Overview
 
 This project processes and analyzes data from CVE, CWE, and related repositories to generate mappings between vulnerabilities and their associated commits, repositories, and files. The pipeline involves several steps: extracting repository information, processing and filtering commit data, and removing noise to focus on relevant information.
+
+<img width="6322" alt="Overview" src="https://github.com/user-attachments/assets/6e45423d-5d84-404a-a30f-b4149252d610" />
 
 ## Prerequisites
 
