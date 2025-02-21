@@ -4,15 +4,6 @@ This project is designed to extract, analyze, and filter CVEs (Common Vulnerabil
 
 ![DatasetS](https://github.com/user-attachments/assets/4cf6eb9b-d82d-436f-b9aa-b9cf15c4886d)
 
-## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Prerequisites](#prerequisites)
-3. [Workflow](#workflow)
-4. [Key Modules](#key-modules)
-5. [Logging](#logging)
-6. [Notes](#notes)
-7. [Citation](#citation)
-
 ## Project Overview
 
 This project processes and analyzes data from CVE, CWE, and related repositories to generate mappings between vulnerabilities and their associated commits, repositories, and files. The pipeline involves several steps: extracting repository information, processing and filtering commit data, and removing noise to focus on relevant information.
