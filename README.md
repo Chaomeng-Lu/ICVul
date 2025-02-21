@@ -4,9 +4,6 @@ This project is designed to extract, analyze, and filter CVEs (Common Vulnerabil
 
 ![DatasetS](https://github.com/user-attachments/assets/4cf6eb9b-d82d-436f-b9aa-b9cf15c4886d)
 
-![DistributionF](https://github.com/user-attachments/assets/56dc88d1-e31f-43cc-86fc-d30459e2356d)
-
-
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Prerequisites](#prerequisites)
