@@ -1,6 +1,6 @@
 # ICVul Dataset Project
 
-This project is designed to extract, analyze, and filter CVEs (Common Vulnerabilities and Exposures) from the National Vulnerability Database (NVD) and then associate them with fix commits from GitHub open-source repositories. By using the SZZ algorithm, it identifies Vulnerable Commit Changes (VCCs) and extracts relevant commit information.
+This project is designed to extract, analyze, and filter CVEs (Common Vulnerabilities and Exposures) from the National Vulnerability Database (NVD) and then associate them with fix commits from GitHub open-source repositories. By using the SZZ algorithm, it identifies Vulnerability Contributing Commits (VCCs) and extracts relevant commit information.
 
 ![DatasetS](https://github.com/user-attachments/assets/4cf6eb9b-d82d-436f-b9aa-b9cf15c4886d)
 
