@@ -67,4 +67,4 @@ https://drive.google.com/file/d/1Bnnb7kJa8GEfyESIAuGXj2z0g8FvXgRk/view?usp=drive
 ## Citation
 If you use this repository or its outputs in your research, please cite the associated paper:
 
-1. Chaomeng, Lu, et al. "ICVul: A Well-labeled C/C++ Vulnerability Dataset with Comprehensive Metadata and VCCs." 22nd International Conference on Mining Software Repositories (MSR). IEEE/ACM, 2025.
+1. Lu, Chaomeng, et al. "ICVul: A Well-labeled C/C++ Vulnerability Dataset with Comprehensive Metadata and VCCs." 2025 IEEE/ACM 22nd International Conference on Mining Software Repositories (MSR). IEEE, 2025.
