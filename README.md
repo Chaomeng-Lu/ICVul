@@ -1,6 +1,12 @@
-# ICVul Dataset Project
+# ICVul: A Well-labeled C/C++ Vulnerability Dataset with Comprehensive Metadata and VCCs
 
 This project is designed to extract, analyze, and filter CVEs (Common Vulnerabilities and Exposures) from the National Vulnerability Database (NVD) and then associate them with fix commits from GitHub open-source repositories. By using the SZZ algorithm, it identifies Vulnerability Contributing Commits (VCCs) and extracts relevant commit information.
+
+This Dataset focus on improving **Data Quality**:
+ ✅ Based on real-world CVEs from NVD linked to GitHub fix commits
+ 🧠 Enriched with comprehensive metadata at the function, commit, and file levels
+ 🔁 Uses the SZZ algorithm to trace Vulnerability-Contributing Commits (VCCs)
+ 🔍 Introduces a novel ESC (Eliminate Suspicious Commit) technique to ensure label reliability
 
 ![DatasetS](https://github.com/user-attachments/assets/4cf6eb9b-d82d-436f-b9aa-b9cf15c4886d)
 
@@ -68,4 +74,5 @@ https://drive.google.com/file/d/1Bnnb7kJa8GEfyESIAuGXj2z0g8FvXgRk/view?usp=drive
 If you use this repository or its outputs in your research, please cite the associated paper:
 
 1. C. Lu, T. Li, T. Dehaene and B. Lagaisse, "ICVul: A Well-labeled C/C++ Vulnerability Dataset with Comprehensive Metadata and VCCs," 2025 IEEE/ACM 22nd International Conference on Mining Software Repositories (MSR), Ottawa, ON, Canada, 2025, pp. 154-158, doi: 10.1109/MSR66628.2025.00034.
+
 
